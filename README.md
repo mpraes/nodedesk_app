@@ -1,4 +1,5 @@
-# NodeDesk - AI-Powered IT Support Agent
+
+<img width="1200" height="398" alt="nodedesk-banner" src="https://github.com/user-attachments/assets/ffb337c3-0026-47f1-886b-d4dcb8dab258" />
 
 NodeDesk is an intelligent IT support agent that automatically categorizes, analyzes, and resolves technical queries in a business/office environment. It uses LangChain and Groq to provide automated technical guidance and ticket management.
 
